@@ -13,7 +13,7 @@
 # 🔨 Tech Stack
 
 **Language**  
-`Java` `Python` `JavaScript` `C++`
+`Java` `Python` `JavaScript` `C++` `C#`
 
 **Backend**  
 `Spring Boot` `MyBatis` `JPA` `Django`
@@ -28,7 +28,7 @@
 `Flutter` `Dart`
 
 **Etc**  
-`Git/GitHub` `Docker` `Postman` `Figma` `Tmap API` `OpenAPI 활용`
+`Git/GitHub` `Unity` `Docker` `Postman` `Figma` `Tmap API` `OpenAPI 활용`
 
 **도전 중**  
 `Jira` `Hibernate` `QueryDSL` `Jenkins`
@@ -67,12 +67,50 @@
 - [👉 프로젝트 GitHub 바로가기](https://github.com/orgs/CAU-2024-IoT/repositories)
 - [👉 프로젝트 보고서 바로가기](https://drive.google.com/file/d/1tHrOZO_PK0-sdeuQsXxHbj-f5b29MmgJ/view?usp=sharing)
 
+## 🌙 수면 패턴 기반 식물 성장 게임형 헬스케어 앱
+> 사용자의 수면 데이터를 기반으로 식물을 키우는 헬스케어 앱입니다.  
+> Google Health Connect를 통헤 앱에서 수면 데이터를 가져와 매일 수면 시간에 따라 경험치를 부여하고, 이를 통해 가상 식물이 성장합니다.  
+> 꾸준한 수면 습관을 유도하는 게임 요소와 함께 사용자의 건강 관리 동기를 부여합니다.
 
-## 🧳 여행 일정 추천 시스템
-> Vue.js + Spring Boot 기반의 관광지 추천 및 경로 시각화 웹 앱
+- 개발 기간 : 2024.09 ~ 2024.12
+- 역할: 팀원, 수면 데이터 처리 및 경험치 계산 로직 구현, 프로젝트 설계 및 관리
+- 기술: Flutter, Dart, Firebase
+- 기여도: 25% (로그인, 경험치 산정 알고리즘)
+- [👉 프로젝트 GitHub 바로가기](https://github.com/MobileAppChomyeon/Mobile_App_1st_team)
+- [👉 프로젝트 보고서 바로가기](https://drive.google.com/file/d/1B_HD2gjy1oc8Eik-qXkOI0-vLBl2tHe_/view?usp=sharing)
+- [👉 시연 영상 보기](https://drive.google.com/file/d/1TOKlQVGBP5LP0lh_I5YQxIDXHN2XrKAG/view?usp=sharing)
 
-- 기능: 관광지 추가, 일정 생성, Tmap 기반 지도 시각화
-- 기술: KTO API, Tmap API, Vue.js, Spring Boot, MySQL
+
+## 🧱 Unity 기반 크로스로드 스타일 두부 캐릭터 게임
+> 귀여운 두부 캐릭터가 장애물을 피해 끝없이 전진하는 캐주얼 3D 게임입니다.  
+> Unity의 Rigidbody와 Physics 시스템을 활용해 점프, 이동, 충돌 등을 구현했으며, 다양한 장애물(자동차, 통나무 등)을 피하며 최고 점수를 갱신해나갑니다.  
+> 단순 조작과 귀여운 비주얼로 남녀노소 누구나 쉽게 즐길 수 있는 게임을 목표로 개발했습니다.
+
+- 개발 기간 : 2024.09 ~ 2023.12
+- 역할: 팀장, 게임 설계, 맵디자인, 로직 및 캐릭터 움직임 구현
+- 기술: Unity 3D, C#
+- 기여도: 60% (플레이어 이동/점프/충돌 처리, 장애물 AI 로직, UI/UX 구성)
+- [👉 프로젝트 GitHub 바로가기](https://github.com/DesignOfGameSoftware/EternalTofu)
+- [👉 프로젝트 보고서 바로가기](https://drive.google.com/file/d/1xOOrNZAG9poC0SMhZJjXSVkxfzYCusN5/view?usp=sharing)
+- [🎮 게임 파일 받기](https://drive.google.com/file/d/1pJKIaH-gok5pShfkoFQ-CJDcVpV6Xv-K/view?usp=drive_link)
+
+## 🗺️ 자동 여행 일정 생성 웹 애플리케이션
+> 사용자가 도시와 테마를 선택하면 추천 관광지를 제공하고, 여행 일정을 생성할 수 있는 웹 서비스입니다.  
+> 관광지를 선택하면 날짜별로 일정을 구성할 수 있으며, 각 일정은 Tmap API를 통해 지도에 시각화됩니다.  
+> 일정 항목은 드래그 앤 드랍으로 자유롭게 편집할 수 있고, 삭제 및 순서 변경도 직관적으로 가능합니다.  
+> OAuth 로그인, 일정 저장 기능, 관광지 API 연동 등 실용적인 기능을 포함하고 있습니다.
+> 생성된 일정은 AI가 평가 해줍니다.
+
+- 개발 기간 : 2025.04 ~ 2025.05
+- 역할:
+  - **팀장**
+  - **프론트엔드 구현**: 관광지 목록, 일정 생성 화면, 지도 시각화 등 Vue 컴포넌트 개발  
+  - **백엔드 협업**: Spring Boot 기반 API 명세 분석 및 리뷰, 응답 포맷 협의 및 오류 개선 제안
+- 기술: Vue.js
+- 기여도: 50% (기획, 지도 연동, 관광지 추가 및 일정 생성 로직 구현)
+- [👉 프로젝트 GitHub 바로가기](https://github.com/PathFinder-2025)
+- [👉 프로젝트 발표자료 바로가기](https://drive.google.com/file/d/1JwtqMm63ThtxcITAjvNMNelAYld4hr2a/view?usp=sharing)
+- [👉 시연 영상 보기](youtube.com/watch?v=zj-pUPFEg_Q)
 
 ---
 ## 📍 화상회의 마피아게임 WebRTC 서비스 (진행중)
@@ -88,21 +126,23 @@
 
 # 🏅 Competitions & Experiences
 
-- 2024.11 SSAFY 9기 수료
-- 2024.10 캡스톤 경진대회 AI 분야 입상
-- 2024.09 정보처리기사 취득
-- 2023.12 교내 해커톤 참가 (네트워크 보안 주제)
-
+- 2025.05 SSAFY 관통프로젝트 우수상 수상(여행 자동 일정 생성 애플리케이션)
+- 2025.05 SSAFY AI 챌린지 2위(Kaggle 포트홀 탐지 Score 0.96733 정량평가 1위)
+- 2025.04 SqlD 취득
+- 2025.03 AdSP 취득
+- 2025.02 중앙대학교 졸업
+- 2025.01 SSAFY 13기 입과
+- 2024.03 ~ 2024.06 데이터 에듀 인턴(부서: 연구소, 직책: 연구원, 담당 업무: 시스템 개발)
+- 2021.04 ~ 2022.10 군 복무(육군: 네트워크 정비)
+- 2019.02 중앙대학교 소프트웨어학과 입학
+- 2019.02 부산일과학고등학교 졸업
 ---
 
 # 📫 Contact
 
-- **Email**: your.email@example.com  
-- **Blog**: [your-blog.tistory.com](https://your-blog.tistory.com)  
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: bjj3141592@naver.com, bjj3141592@gmail.com
+- **GitHub**: [github.com/baejjyee](https://github.com/yourusername)
 
 ---
 
-> 💬 꾸준히 학습하고, 문제 해결을 즐기는 개발자입니다.  
-> 협업과 성장을 중요하게 생각하며, 항상 더 나은 코드를 고민합니다.
+> 꾸준히 학습하고, 더 나은 문제 해결법을 위해 피드백 환영합니다.  
