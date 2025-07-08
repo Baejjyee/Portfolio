@@ -54,14 +54,19 @@
 - [👉 프로젝트 보고서 바로가기](https://drive.google.com/file/d/1aNynFb9u3rQcSLSg9IhkmD4JKJMHUtTE/view?usp=sharing)
 ---
 
-## 📖 무인 도서관 시스템
-> Raspberry Pi + RFID 기반 도서 대여 및 좌석 관리 시스템
+## 📖 라즈베리파이를 활용한 무인 도서관 시스템
+> 도서 대여·반납과 좌석 예약 기능을 갖춘 무인 도서관 시스템입니다.  
+> 사용자는 도서의 대출/반납을 앱을 통해 요청을 보내면 자동으로 QR코드를 인식하여 대출/반납을 할 수 있습니다.
+> 의자의 적외선 센서를 통해 실시간으로 좌석을 파악하여 좌석 사용 여부를 확인할 수 있습니다.  
+> 도난 방지, 좌석 점유 관리, 실시간 모니터링 기능을 포함하여 관리자의 효율적인 운영을 지원합니다.
 
-- 역할 : 무인 도서관 앱 개발, 서버 통신
-- 기술: Python, Node.js, Firebase, Arduino, LED 제어
-- 특징: 도난 방지, 좌석 예약, 실시간 알림 기능 구현
+- 개발 기간 : 2024.09 ~ 2023.12
+- 역할: 팀장, 도서 앱 구현
+- 기술: Raspberry Pi, Flutter
+- 기여도: 25% (도서 관리 기능 및 좌석 상태 처리 로직)
+- [👉 프로젝트 GitHub 바로가기](https://github.com/orgs/CAU-2024-IoT/repositories)
+- [👉 프로젝트 보고서 바로가기](https://drive.google.com/file/d/1tHrOZO_PK0-sdeuQsXxHbj-f5b29MmgJ/view?usp=sharing)
 
----
 
 ## 🧳 여행 일정 추천 시스템
 > Vue.js + Spring Boot 기반의 관광지 추천 및 경로 시각화 웹 앱
