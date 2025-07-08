@@ -110,7 +110,7 @@
 - 기여도: 50% (기획, 지도 연동, 관광지 추가 및 일정 생성 로직 구현)
 - [👉 프로젝트 GitHub 바로가기](https://github.com/PathFinder-2025)
 - [👉 프로젝트 발표자료 바로가기](https://drive.google.com/file/d/1JwtqMm63ThtxcITAjvNMNelAYld4hr2a/view?usp=sharing)
-- [👉 시연 영상 보기](youtube.com/watch?v=zj-pUPFEg_Q)
+- [👉 시연 영상 보기](https://www.youtube.com/watch?v=zj-pUPFEg_Q&ab_channel=%EC%A0%95%ED%95%84%EA%B5%90%5B%EB%B6%80%EC%9A%B8%EA%B2%BD_2%EB%B0%98_E204%5D%ED%8C%80%EC%9B%90)
 
 ---
 ## 📍 화상회의 마피아게임 WebRTC 서비스 (진행중)
