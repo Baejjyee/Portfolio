@@ -141,7 +141,7 @@
 # 📫 Contact
 
 - **Email**: bjj3141592@naver.com, bjj3141592@gmail.com
-- **GitHub**: [github.com/baejjyee](https://github.com/yourusername)
+- **GitHub**: [github.com/baejjyee](https://github.com/baejjyee)
 
 ---
 
